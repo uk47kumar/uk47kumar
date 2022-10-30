@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uk47kumar&show_icons=true&locale=en" alt="uk47kumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uk47kumar&" alt="uk47kumar" /></p>
+[![@uk47kumar's Holopin board](https://holopin.me/uk47kumar)](https://holopin.io/@uk47kumar)
